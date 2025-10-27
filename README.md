@@ -10,8 +10,7 @@
 ### 🎓 About Me  
 I’m an engineer passionate about **intelligent systems that think, reason, and adapt**.  
 Currently exploring **Diffusion Transformers**, and working on **getting better at the "most optimized approach ;)"**
-💡 I’ve worked with **Sony Global (Tokyo)** and **IIT Bombay**, tackling projects ranging from  
-real-time defect detection on embedded devices to metaverse-driven learning experiences.  
+💡 I’ve worked with **Sony Global (Tokyo)** and **IIT Bombay**, tackling projects ranging from real-time defect detection on embedded devices to metaverse-driven learning experiences.  
 
 Outside an interest for software development and research, I founded **CivicAI**, a youth-driven initiative to promote *ethical AI and digital literacy* across communities.  
 
