@@ -1,12 +1,7 @@
-<!-- ✨ Animated Header (Code Rain Vibes) -->
-<p align="center">
-  <img src="https://i.imgur.com/n2V4g7k.gif" alt="code rain" width="100%" />
-</p>
-
 <h1 align="center">Hey there, I'm <a href="https://github.com/pkp-git">Praneeth</a> 👋</h1>
 
 <p align="center">
-  <em>AI Researcher • ML Developer • Builder of Agentic Systems</em><br>
+  <em>Aspiring SDE with an AI flair</em><br>
   <b>“Curiosity is my compiler.”</b>
 </p>
 
@@ -14,27 +9,26 @@
 
 ### 🎓 About Me  
 I’m an engineer passionate about **intelligent systems that think, reason, and adapt**.  
-Currently exploring **Diffusion Transformers**, **RAG pipelines**, and **Agentic AI** — pushing the boundaries between automation and creativity.  
-
+Currently exploring **Diffusion Transformers**, and working on **getting better at the "most optimized approach ;)"**
 💡 I’ve worked with **Sony Global (Tokyo)** and **IIT Bombay**, tackling projects ranging from  
 real-time defect detection on embedded devices to metaverse-driven learning experiences.  
 
-Outside research, I founded **CivicAI**, a youth-driven initiative to promote *ethical AI and digital literacy* across communities.  
+Outside an interest for software development and research, I founded **CivicAI**, a youth-driven initiative to promote *ethical AI and digital literacy* across communities.  
 
 ---
 
 ### ⚙️ Tech Stack  
-**AI/ML:** LLMs • Transformers • RAG • U-Net • NLP • Anomaly Detection • Agentic AI  
-**Frameworks:** PyTorch • TensorFlow • Hugging Face • LangChain • FastAPI  
-**Cloud & Tools:** AWS • Milvus • Pinecone • Chroma • Unity • ONNX • XR/VR  
-**Programming:** Python • C • C#  
+**Frameworks & Libraries**: FastAPI, PyTorch, Node.js, Streamlit, LangChain, Scikit-learn
+**Cloud & DevOps**: AWS, Terraform, Ansible, Jenkins, Docker, Kubernetes
+**Databases**: Firestore, Milvus, Pinecone, MongoDB, SQL
+**AI & ML**: LLMs, RAG, NLP, CNNs, U-Net, OCR, STT/TTS, Emotion Recognition (SER)
+**Languages**: Python, C, C#, JavaScript (basics), HTML/CSS
 
 ---
 
 ### 🧠 Currently Working On  
 🚧 **Diffusion Transformers** — exploring hybrid diffusion–transformer architectures for generative control  
-🧩 **DSA Practice** — sharpening fundamentals through pattern-based problem solving  
-📘 Writing a short blog series on *“Agentic Workflows in Production AI”*
+🧩 **DSA Practice** — sharpening problem solving for that "optimized approach"
 
 ---
 
@@ -59,13 +53,13 @@ Turns one image into a five-panel AI-generated storyboard using LLaMA + Stable D
 ### 🏆 Highlights  
 - 🥇 **Winner:** Hack Rush 1.0 — Inter-University Hackathon  
 - 🥈 **Runner-Up:** IEEE Leap 24 Hackathon  
-- 📚 **5 × IEEE/Springer Publications** on AI & Systems Research  
+- 📚 **4 × IEEE/APSCE/Springer Publications** on AI & Systems, EdTech and Blockchain Research   
 - 🌍 **Founder:** [CivicAI](#) — Fostering ethical & community-centered AI  
 
 ---
 
 ### 💬 Quote  
-> “AI isn’t replacing creativity — it’s expanding it.”  
+> “AI cannot replace creativity - it can only expand it.”  
 
 ---
 
